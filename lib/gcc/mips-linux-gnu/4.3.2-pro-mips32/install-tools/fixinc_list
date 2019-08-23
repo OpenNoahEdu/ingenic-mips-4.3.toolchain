@@ -1,0 +1,16 @@
+;
+/uclibc;/uclibc
+;/mips2
+;/mips32
+;/soft-float
+;/el
+;/soft-float/el
+;/mips2/soft-float
+;/mips2/el
+;/mips2/soft-float/el
+;/mips32/soft-float
+;/mips32/el
+;/mips32/soft-float/el
+/uclibc;/uclibc/soft-float
+/uclibc;/uclibc/el
+/uclibc;/uclibc/soft-float/el
